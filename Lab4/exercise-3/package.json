@@ -1,0 +1,20 @@
+{
+  "name": "exercise-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "mochaAdd": "mocha app.js",
+    "mochaVersion": "mocha --version",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "question-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "mochaTest": "mocha tests.js",
+    "mochaVersion": "mocha -version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
