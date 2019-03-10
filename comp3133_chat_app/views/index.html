@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <title>CHAT</title>
+      <link href="css/bootstrap.css" rel="stylesheet" />
+      <link href="css/style.css" rel="stylesheet" />
+      <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+      <script src="/socket.io/socket.io.js"></script>
+      <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="vendor/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="vendor/animate.css">
+      <link rel="stylesheet" type="text/css" href="vendor/hamburgrs.min.css">
+      <link rel="stylesheet" type="text/css" href="vendor/select2.min.css">
+      <link rel="stylesheet" type="text/css" href="css/util.css">
+      <link rel="stylesheet" type="text/css" href="css/main.css">
+   </head>
+   <body>
+      <!--LOGIN PAGE-->
+      <div class="limiter" id="nickWrap">
+         <div class="container-login">
+            <div class="wrap-login100">
+               
+               <form id="setNick" method='post' class="login100-form ">
+                  <span class="login100-form-title">
+                  <h2>Welcome to the Undernet Chat Room</h2>
+                  </br>
+                  
+                  </span>
+                  <h3>Member Login</h3>
+                  <div class="wrap-input100" id="nickWrap" >
+                     <p id="nickError" style="color: #d43f3a"></p>
+                     <input id="nickName" type="text" placeholder="Username" class="input100" required/>
+                     </br>
+                     <input id="nickName" type="password" placeholder="Password" class="input100" required/>
+                     </br>
+                     <button class="login100-form-btn">Login</button>             
+                  </div>
+               </form>
+            </div>
+         </div>
+      </div>
+      <!-- chat -->
+      <div class="limiter" id="contentWrap">
+         <div class="limiter" id="nickWrap">
+            <div class="container-login">
+               <!--ONLINE USERS-->
+               <div class="col-md-7">
+                  <div class="panel panel-primary">
+                     <div class="panel-heading">
+                        <h3>Online Users</h3>
+                     </div>
+                     <div class="panel-body">
+                        <ul class="media-list">
+                           <li class="media">
+                              <div class="media-body">
+                                 <div id="users">
+                                 </div>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                  <!-- Rooms -->
+                  <!-- Creating a room -->
+               </div>
+               <div class="col-md-7">
+                  <div class="panel panel-primary">
+                     <div class="panel-heading">
+                        <h3>Chat Rooms</h3>
+                     </div>
+                     <div class="panel-body">
+                        <ul class="media-list">
+                           <li class="media">
+                              <div class="media-body">
+                                 <div id="rooms">
+                                 </div>
+                              </div>
+                     </div>
+                     </li>
+                     </ul>
+                  </div>
+               </div>
+               <!-- chat template -->
+               <div class="col-md-7">
+                  <div class="panel panel-info">
+                     <div class="panel-heading">
+                        <h3>Undernet Chat</h3>
+                     </div>
+                     <div class="panel-body">
+                        <ul class="media-list">
+                           <li class="media">
+                              <div class="media-body">
+                                 <div id="chat">
+                                 </div>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                     <div class="panel-footer">
+                        <div class="input-group">
+                           <input placeholder="Enter a message:" size="105" id="message"></input>
+                           <span class="input-group-btn">
+                           <button id="send" class="btn btn-info" type="button">SEND</button>
+                           </span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div id="chatWrap"></div>
+            </div>
+         </div>
+      </div>
+      <script src="indexSocketScript.js"></script>
+   </body>
+</html>

@@ -1,0 +1,141 @@
+CONNECTION has been started @ Sun Mar 10 2019 12:08:24 GMT-0400 (Eastern Daylight Time) for socket 50P03UXNzuLSn5UNAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:08:38 GMT-0400 (Eastern Daylight Time) for socket eTucCiPL9JlahGsEAAABin the Lobby
+eTucCiPL9JlahGsEAAAB has been created @ Sun Mar 10 2019 12:08:42 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+eTucCiPL9JlahGsEAAAB has been disconnected @ Sun Mar 10 2019 12:08:52 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:09:58 GMT-0400 (Eastern Daylight Time) for socket -2pADOmSYnUVYT8xAAACin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:10:22 GMT-0400 (Eastern Daylight Time) for socket 36blefEYnbC8UR6PAAADin the Lobby
+36blefEYnbC8UR6PAAAD has been created @ Sun Mar 10 2019 12:10:25 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+36blefEYnbC8UR6PAAAD has been disconnected @ Sun Mar 10 2019 12:10:36 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:11:29 GMT-0400 (Eastern Daylight Time) for socket 9w-nZUj5e4H1LChLAAAEin the Lobby
+9w-nZUj5e4H1LChLAAAE has been created @ Sun Mar 10 2019 12:11:32 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+9w-nZUj5e4H1LChLAAAE has been disconnected @ Sun Mar 10 2019 12:11:40 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:11:42 GMT-0400 (Eastern Daylight Time) for socket wiHvLAJ8BT8rqRPCAAAFin the Lobby
+wiHvLAJ8BT8rqRPCAAAF has been created @ Sun Mar 10 2019 12:12:31 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+wiHvLAJ8BT8rqRPCAAAF has been disconnected @ Sun Mar 10 2019 12:15:17 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:15:17 GMT-0400 (Eastern Daylight Time) for socket 0XPHXTCx7XO5rQDxAAAGin the Lobby
+0XPHXTCx7XO5rQDxAAAG has been created @ Sun Mar 10 2019 12:15:19 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+0XPHXTCx7XO5rQDxAAAG has been disconnected @ Sun Mar 10 2019 12:19:41 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:19:41 GMT-0400 (Eastern Daylight Time) for socket 30rYamT9L-W55GH3AAAHin the Lobby
+30rYamT9L-W55GH3AAAH has been created @ Sun Mar 10 2019 12:19:43 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+30rYamT9L-W55GH3AAAH has been disconnected @ Sun Mar 10 2019 12:21:13 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:21:13 GMT-0400 (Eastern Daylight Time) for socket zdL8Pi5YD0jWmeNyAAAIin the Lobby
+zdL8Pi5YD0jWmeNyAAAI has been created @ Sun Mar 10 2019 12:21:15 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+zdL8Pi5YD0jWmeNyAAAI has been disconnected @ Sun Mar 10 2019 12:21:43 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:21:43 GMT-0400 (Eastern Daylight Time) for socket 5YK_q8eSj_pPqCS3AAAJin the Lobby
+5YK_q8eSj_pPqCS3AAAJ has been created @ Sun Mar 10 2019 12:21:45 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+5YK_q8eSj_pPqCS3AAAJ has sent a new message @ Sun Mar 10 2019 12:26:27 GMT-0400 (Eastern Daylight Time) and created by James in the Main room
+5YK_q8eSj_pPqCS3AAAJ has been disconnected @ Sun Mar 10 2019 12:26:59 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:26:59 GMT-0400 (Eastern Daylight Time) for socket D7NRZCv8nn7U1KaGAAAKin the Lobby
+D7NRZCv8nn7U1KaGAAAK has been created @ Sun Mar 10 2019 12:27:00 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+D7NRZCv8nn7U1KaGAAAK has been disconnected @ Sun Mar 10 2019 12:27:08 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:27:08 GMT-0400 (Eastern Daylight Time) for socket 1FEQrS0Y8Ivx2oiAAAALin the Lobby
+1FEQrS0Y8Ivx2oiAAAAL has been created @ Sun Mar 10 2019 12:27:10 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+1FEQrS0Y8Ivx2oiAAAAL has been disconnected @ Sun Mar 10 2019 12:27:30 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:27:30 GMT-0400 (Eastern Daylight Time) for socket tQBKcP_iUAI-Glq7AAAMin the Lobby
+tQBKcP_iUAI-Glq7AAAM has been created @ Sun Mar 10 2019 12:27:31 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+tQBKcP_iUAI-Glq7AAAM has been disconnected @ Sun Mar 10 2019 12:27:42 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:27:42 GMT-0400 (Eastern Daylight Time) for socket F6Aw4uNRuREExMHcAAANin the Lobby
+F6Aw4uNRuREExMHcAAAN has been created @ Sun Mar 10 2019 12:27:44 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+F6Aw4uNRuREExMHcAAAN has been disconnected @ Sun Mar 10 2019 12:27:59 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:27:59 GMT-0400 (Eastern Daylight Time) for socket eQOU5CgCd1RrW6dfAAAOin the Lobby
+eQOU5CgCd1RrW6dfAAAO has been created @ Sun Mar 10 2019 12:28:01 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+eQOU5CgCd1RrW6dfAAAO has been disconnected @ Sun Mar 10 2019 12:28:47 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:28:47 GMT-0400 (Eastern Daylight Time) for socket CLJahGEA0eBy5jXIAAAPin the Lobby
+CLJahGEA0eBy5jXIAAAP has been created @ Sun Mar 10 2019 12:28:48 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CLJahGEA0eBy5jXIAAAP has sent a new message @ Sun Mar 10 2019 12:29:12 GMT-0400 (Eastern Daylight Time) and created by James in the Main room
+CLJahGEA0eBy5jXIAAAP has left Main room and created by James @ Sun Mar 10 2019 12:29:37 GMT-0400 (Eastern Daylight Time)
+CLJahGEA0eBy5jXIAAAP has joined Miscellaneous room and created by James @ Sun Mar 10 2019 12:29:37 GMT-0400 (Eastern Daylight Time)
+CLJahGEA0eBy5jXIAAAP has left Miscellaneous room and created by James @ Sun Mar 10 2019 12:29:40 GMT-0400 (Eastern Daylight Time)
+CLJahGEA0eBy5jXIAAAP has joined Main room and created by James @ Sun Mar 10 2019 12:29:40 GMT-0400 (Eastern Daylight Time)
+CLJahGEA0eBy5jXIAAAP has been disconnected @ Sun Mar 10 2019 12:30:03 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:32:11 GMT-0400 (Eastern Daylight Time) for socket msRwHZYYQds7SDLYAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:32:15 GMT-0400 (Eastern Daylight Time) for socket 5gILrC4zusQBdil2AAABin the Lobby
+5gILrC4zusQBdil2AAAB has been created @ Sun Mar 10 2019 12:32:17 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+5gILrC4zusQBdil2AAAB has been disconnected @ Sun Mar 10 2019 12:36:22 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:36:22 GMT-0400 (Eastern Daylight Time) for socket w4gsUmCLkT_nNmDCAAACin the Lobby
+w4gsUmCLkT_nNmDCAAAC has been created @ Sun Mar 10 2019 12:36:24 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+w4gsUmCLkT_nNmDCAAAC has been disconnected @ Sun Mar 10 2019 12:36:41 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:36:41 GMT-0400 (Eastern Daylight Time) for socket TqqAGMU6UqPQv-igAAADin the Lobby
+TqqAGMU6UqPQv-igAAAD has been created @ Sun Mar 10 2019 12:36:43 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+TqqAGMU6UqPQv-igAAAD has been disconnected @ Sun Mar 10 2019 12:36:54 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:36:54 GMT-0400 (Eastern Daylight Time) for socket wq77D-_WBbIc61K8AAAEin the Lobby
+wq77D-_WBbIc61K8AAAE has been created @ Sun Mar 10 2019 12:36:55 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+wq77D-_WBbIc61K8AAAE has been disconnected @ Sun Mar 10 2019 12:37:04 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:37:04 GMT-0400 (Eastern Daylight Time) for socket -GNetROrhTL9hCBrAAAFin the Lobby
+-GNetROrhTL9hCBrAAAF has been created @ Sun Mar 10 2019 12:37:05 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+-GNetROrhTL9hCBrAAAF has been disconnected @ Sun Mar 10 2019 12:37:19 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:37:19 GMT-0400 (Eastern Daylight Time) for socket Zud29fzbXpxxk5aFAAAGin the Lobby
+Zud29fzbXpxxk5aFAAAG has been created @ Sun Mar 10 2019 12:37:20 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+Zud29fzbXpxxk5aFAAAG has been disconnected @ Sun Mar 10 2019 12:37:29 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:37:30 GMT-0400 (Eastern Daylight Time) for socket e9UNeBujP8RNTk6WAAAHin the Lobby
+e9UNeBujP8RNTk6WAAAH has been created @ Sun Mar 10 2019 12:37:31 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+e9UNeBujP8RNTk6WAAAH has been disconnected @ Sun Mar 10 2019 12:38:09 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:38:09 GMT-0400 (Eastern Daylight Time) for socket FO3PSERd9ZzQGXzCAAAIin the Lobby
+FO3PSERd9ZzQGXzCAAAI has been created @ Sun Mar 10 2019 12:38:11 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+FO3PSERd9ZzQGXzCAAAI has been disconnected @ Sun Mar 10 2019 12:39:33 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:46:22 GMT-0400 (Eastern Daylight Time) for socket kUZsxxC0jSOe6122AAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:46:23 GMT-0400 (Eastern Daylight Time) for socket OqiT0Io_lXCZos81AAABin the Lobby
+OqiT0Io_lXCZos81AAAB has been created @ Sun Mar 10 2019 12:46:25 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+OqiT0Io_lXCZos81AAAB has been disconnected @ Sun Mar 10 2019 12:46:38 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:46:38 GMT-0400 (Eastern Daylight Time) for socket je4cXGWGHHDYSnsaAAACin the Lobby
+je4cXGWGHHDYSnsaAAAC has been created @ Sun Mar 10 2019 12:46:40 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+je4cXGWGHHDYSnsaAAAC has been disconnected @ Sun Mar 10 2019 12:46:53 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:46:54 GMT-0400 (Eastern Daylight Time) for socket q-gbYmF_SZFXXC3TAAADin the Lobby
+q-gbYmF_SZFXXC3TAAAD has been created @ Sun Mar 10 2019 12:46:55 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+q-gbYmF_SZFXXC3TAAAD has been disconnected @ Sun Mar 10 2019 12:47:47 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:47:47 GMT-0400 (Eastern Daylight Time) for socket aPusR-97azJ3INlZAAAEin the Lobby
+aPusR-97azJ3INlZAAAE has been created @ Sun Mar 10 2019 12:47:48 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+aPusR-97azJ3INlZAAAE has been disconnected @ Sun Mar 10 2019 12:48:50 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:48:51 GMT-0400 (Eastern Daylight Time) for socket 3mV9BLSDD-dmtqlLAAAFin the Lobby
+3mV9BLSDD-dmtqlLAAAF has been created @ Sun Mar 10 2019 12:48:52 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+3mV9BLSDD-dmtqlLAAAF has been disconnected @ Sun Mar 10 2019 12:50:06 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:50:06 GMT-0400 (Eastern Daylight Time) for socket MJZkQ7mqVDBXlO8ZAAAGin the Lobby
+MJZkQ7mqVDBXlO8ZAAAG has been created @ Sun Mar 10 2019 12:50:08 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+MJZkQ7mqVDBXlO8ZAAAG has been disconnected @ Sun Mar 10 2019 12:50:16 GMT-0400 (Eastern Daylight Time) and created by James
+CONNECTION has been started @ Sun Mar 10 2019 12:50:16 GMT-0400 (Eastern Daylight Time) for socket haVQpnoAomZrrUXCAAAHin the Lobby
+haVQpnoAomZrrUXCAAAH has been created @ Sun Mar 10 2019 12:50:17 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 12:51:45 GMT-0400 (Eastern Daylight Time) for socket YUj470RlnRur0mLFAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:51:45 GMT-0400 (Eastern Daylight Time) for socket 7AfS9cPZRQdti1VTAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:51:53 GMT-0400 (Eastern Daylight Time) for socket s4yhm79Bow4hvVQ-AAACin the Lobby
+s4yhm79Bow4hvVQ-AAAC has been created @ Sun Mar 10 2019 12:51:55 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 12:52:07 GMT-0400 (Eastern Daylight Time) for socket 1GsIHQd8YB94bAVHAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:52:07 GMT-0400 (Eastern Daylight Time) for socket SubDhKYFSHNIIbqTAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:52:10 GMT-0400 (Eastern Daylight Time) for socket T1NEof2SftTEOZBnAAACin the Lobby
+T1NEof2SftTEOZBnAAAC has been created @ Sun Mar 10 2019 12:52:12 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 12:55:49 GMT-0400 (Eastern Daylight Time) for socket QvV5tENxWBL0rqxRAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:55:50 GMT-0400 (Eastern Daylight Time) for socket LwoT-XgQKSrwOIARAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:56:26 GMT-0400 (Eastern Daylight Time) for socket 8jih9FvzEgZbjQmeAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:56:26 GMT-0400 (Eastern Daylight Time) for socket 2S8IkDt14vybeXTgAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:56:47 GMT-0400 (Eastern Daylight Time) for socket rnp05rmXKZLk432mAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:56:47 GMT-0400 (Eastern Daylight Time) for socket 3c1FguYZB0YmxyPvAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:57:20 GMT-0400 (Eastern Daylight Time) for socket 2QrIzbFoyL9VLW19AAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:57:20 GMT-0400 (Eastern Daylight Time) for socket p75sJsmgJCJqMhyFAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:58:18 GMT-0400 (Eastern Daylight Time) for socket idG5zwrKd7RNknk_AAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 12:58:19 GMT-0400 (Eastern Daylight Time) for socket HThAtAfJ-7jceXQnAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:00:32 GMT-0400 (Eastern Daylight Time) for socket PUYf4xMbdgKhV-OMAAACin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:00:43 GMT-0400 (Eastern Daylight Time) for socket Ba5fDVfJBqiNk29iAAADin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:00:54 GMT-0400 (Eastern Daylight Time) for socket G3Rp_tMW6Lg5EsRqAAAEin the Lobby
+G3Rp_tMW6Lg5EsRqAAAE has been created @ Sun Mar 10 2019 13:01:06 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 13:01:49 GMT-0400 (Eastern Daylight Time) for socket aLndY3aspI_fuLS5AAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:01:49 GMT-0400 (Eastern Daylight Time) for socket JFppfg_AAuujMPv_AAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:01:53 GMT-0400 (Eastern Daylight Time) for socket U1BG82K5Yg-K5atXAAACin the Lobby
+U1BG82K5Yg-K5atXAAAC has been created @ Sun Mar 10 2019 13:01:58 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 13:05:35 GMT-0400 (Eastern Daylight Time) for socket LRhmkAcDd3mxDeFTAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:05:35 GMT-0400 (Eastern Daylight Time) for socket ZD8SKTqleh7hNmGFAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:05:38 GMT-0400 (Eastern Daylight Time) for socket -ehmP9oXu1VGqzWJAAACin the Lobby
+-ehmP9oXu1VGqzWJAAAC has been created @ Sun Mar 10 2019 13:05:46 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 13:07:32 GMT-0400 (Eastern Daylight Time) for socket UzmgPxv3a6chz7ylAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:07:32 GMT-0400 (Eastern Daylight Time) for socket 2c-nMYp3cvQEq6ENAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:07:34 GMT-0400 (Eastern Daylight Time) for socket wF3n40HYUdpLuK_UAAACin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:08:14 GMT-0400 (Eastern Daylight Time) for socket hTRFiuQ9ZPLah2ZtAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:08:18 GMT-0400 (Eastern Daylight Time) for socket Mpd2vyyxQ3xOb6-bAAABin the Lobby
+Mpd2vyyxQ3xOb6-bAAAB has been created @ Sun Mar 10 2019 13:08:21 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+CONNECTION has been started @ Sun Mar 10 2019 13:09:19 GMT-0400 (Eastern Daylight Time) for socket no5WYyddPwVonVDpAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:09:19 GMT-0400 (Eastern Daylight Time) for socket 2TB21ky9hetdgnXaAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:09:20 GMT-0400 (Eastern Daylight Time) for socket XD_abpTmk_INgTYQAAACin the Lobby
+XD_abpTmk_INgTYQAAAC has been created @ Sun Mar 10 2019 13:09:23 GMT-0400 (Eastern Daylight Time) and created by James in the Main Room
+XD_abpTmk_INgTYQAAAC has sent a new message @ Sun Mar 10 2019 13:09:27 GMT-0400 (Eastern Daylight Time) and created by James in the Main room
+CONNECTION has been started @ Sun Mar 10 2019 13:09:37 GMT-0400 (Eastern Daylight Time) for socket kdy4lPGqUW0lHJfYAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:09:38 GMT-0400 (Eastern Daylight Time) for socket LGqh6kRysBTjM4GMAAABin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:17:13 GMT-0400 (Eastern Daylight Time) for socket x0oS22qtyBdTMN3zAAAAin the Lobby
+CONNECTION has been started @ Sun Mar 10 2019 13:17:13 GMT-0400 (Eastern Daylight Time) for socket pmMBN0L9wjPt3KNiAAABin the Lobby
